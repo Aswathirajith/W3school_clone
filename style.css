@@ -230,3 +230,81 @@
     height: 300px;
     margin-right: 12px;
 }
+.container{
+    background-color: #282A35;
+    width: 100%;
+    height: 6000px;
+   
+}
+.box_container{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 30px;
+}
+.box-small{
+    width: 600px;
+    height: 270px;
+    border-radius: 5px;
+    margin: 60px 60px 60px 60px;
+    text-align: center;
+    padding-top: 50px;
+
+}
+.btn3{
+    border: none;
+    width: 185px;
+    height: 41px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+    background-color: #04a96d;
+
+}
+.box-large{
+    width: 600px;
+    height: 140px;
+    border-radius: 5px;
+    margin: 60px 60px 60px 60px;
+    text-align: center;
+    padding-top: 50px;
+}
+.xsmall{
+    width: 240px;
+    height: 140px;
+    border-radius: 5px;
+    margin: 60px 60px 60px 60px;
+    text-align: center;
+    padding-top: 50px;
+}
+.boxes1{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.boxes .boxes2{
+    margin-left: 290px;
+}
+.btn4 button{
+    width: 320px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 20px;
+}
+.btn5{
+    border: none;
+    width: 300px;
+    height: 41px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+    background-color: #04a96d;
+    color: #FFF;
+}
+.check-img{
+    display: flex; color: #fff; 
+    margin-left: 620px;
+}
