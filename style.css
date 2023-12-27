@@ -111,9 +111,12 @@
     width: fit-content;
     margin-left: 20px;
     margin-right: 10px;
-    margin-top: 12px;
     font-size: 14px;
+    height: 50px;
 
+}
+.nav2_btn button:hover{
+    background-color: #000;
 }
 .content .search-box2{
     border: 1px solid #ccc;
@@ -160,6 +163,9 @@
     font-size: 21;
     font-weight: bold;
 
+}
+.content a:hover{
+    color: #fff080;
 }
 .html-block{
     background-color: #D9EEE1;
@@ -307,4 +313,28 @@
 .check-img{
     display: flex; color: #fff; 
     margin-left: 620px;
+}
+.main .logo{
+    width: 100px;
+}
+
+.bottom-nav button{
+    margin: 0 20px;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+    height: 60px;
+    background-color: transparent;
+    width: fit-content;
+    color: #FFF4A3;
+}
+
+.bottom-div{
+    color: #ddd; 
+    margin-right: 100px;
+    margin-top: 50px;
+
+}
+.bottom-div p{
+    padding-left: 0;
 }
