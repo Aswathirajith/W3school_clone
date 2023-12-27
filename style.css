@@ -91,7 +91,7 @@
 
 }
 .main{
-        background-image: url(images/lynx_in_space.png), url(images/background_in_space.gif);
+        background-image: url("../images/lynx_in_space.png"), url("../images/background_in_space.gif");
         background-repeat: no-repeat, repeat;
         background-position: 90% 60%, center center;
         height: 600px;
